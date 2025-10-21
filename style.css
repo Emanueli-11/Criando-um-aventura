@@ -1,5 +1,17 @@
 body {
-   background-color: rgb(245, 9, 127);
+   background-color: black;
+   color: white;
+   font-family: "Bai Jamjuree", sans-serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 700px;
+   margin: 0;
+
+}
+
+button{
+   background-color: black;
    color: white;
    font-family: "Bai Jamjuree", sans-serif;
 }
